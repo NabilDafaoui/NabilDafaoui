@@ -67,7 +67,6 @@
 
 ## Me contacter
 <a href="nabildaafaoui03@gmail.com" target="_blank">
-<img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=GO&url=https%3A%2F%2Fadam-net.fr%2F">
 </a> 
 </div>  
 
