@@ -6,7 +6,7 @@
 
 - 🔭 Master Génie Logiciel
 
-- 🌐 <a href="https://portfolio-ayoub-chenini.netlify.app/" target="_blank">Mon profil</a>
+- 🌐 <a href="https://nabildafaoui.github.io" target="_blank">Mon profil</a>
   
 
 <br/>  
