@@ -79,8 +79,10 @@
 
 
 ## Me contacter
-<a href="nabildaafaoui03@gmail.com" target="_blank">
-</a> 
+<div id="contact">
+    <a href="mailto:nabildaafaoui03@gmail.com" target="_blank">nabildaafaoui03@gmail.com</a>
+</div>
+
 </div>  
 
 <br />
